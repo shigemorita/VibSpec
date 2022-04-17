@@ -1,6 +1,0 @@
-numpy
-scipy
-networkx
-rmsd
-pytest
-flake8
