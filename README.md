@@ -1,1 +1,0 @@
-(c) 2022 Shigeaki Morita
